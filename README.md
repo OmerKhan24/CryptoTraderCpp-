@@ -7,8 +7,8 @@ CryptoTraderCpp is a cutting-edge C++ application inspired by platforms like Bin
 ## Key Features:
 
 💰 Deposit and withdraw funds securely <br>
-📊 Real-time market data for informed trading decisions <br>
-🔄 Buy or sell cryptocurrencies based on live market trends <br>
+📊 Simulated real-time market data for informed trading decisions <br>
+🔄 Buy or sell cryptocurrencies based on simulated live market trends <br>
 📈 Track crypto values within specified ranges <br>
 📁 Multiple account support with secure file-based storage <br>
 Please note: While the account details are securely saved in a file, transaction histories are not stored, ensuring privacy and data security. <br>
