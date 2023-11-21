@@ -1,0 +1,50 @@
+﻿  PROJECT.cpp
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1933,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1942,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1947,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1956,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1961,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1970,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1975,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1984,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1989,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(1998,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2003,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2012,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2017,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2026,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2031,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2040,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2045,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2054,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2059,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2068,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2234,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2251,14): warning C4101: 'y': unreferenced local variable
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2301,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2459,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2511,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2565,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2621,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2675,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2728,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2782,57): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2837,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2891,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(2946,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3032,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3085,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3142,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3197,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3252,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3307,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3362,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3417,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3472,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3527,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3588,17): warning C4101: 'ans': unreferenced local variable
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3588,10): warning C4101: 'check': unreferenced local variable
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3592,9): warning C4101: 'ID': unreferenced local variable
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3002): warning C4715: 'buy_sell::buy_crypto': not all control paths return a value
+F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\PROJECT.cpp(3574): warning C4715: 'buy_sell::sell_crypto': not all control paths return a value
+  PROJECT.vcxproj -> F:\FAST WORK\SECOND SEM\OOP LAB\PROJECT\x64\Debug\PROJECT.exe
