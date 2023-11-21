@@ -32,8 +32,9 @@ Please note: While the account details are securely saved in a file, transaction
 
 This project is licensed under the MIT License- see the [LICENSE.md](https://github.com/OmerKhan24/Currency-Calculator/blob/main/LICENSE.md) file for details.
 
-Get started with CryptoTraderCpp now and embark on your journey into the exciting world of cryptocurrency trading. Happy trading! 🌐✨
-Feel free to contribute, report issues, or suggest improvements!
+Get started with CryptoTraderCpp now and embark on your journey into the exciting world of cryptocurrency trading. <br>
+Feel free to contribute, report issues, or suggest improvements! <br>
+Happy trading! 🌐✨
 
   ---
   
