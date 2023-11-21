@@ -13,6 +13,21 @@ CryptoTraderCpp is a cutting-edge C++ application inspired by platforms like Bin
 📁 Multiple account support with secure file-based storage <br>
 Please note: While the account details are securely saved in a file, transaction histories are not stored, ensuring privacy and data security. <br>
 
+## Installation
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/OmerKhan24/CryptoTraderCpp-.git
+
+2. Open the solution file in Visual Studio:
+
+    Navigate to the `PROJECT` folder and open the solution file named `PROJECT.sln` in Visual Studio.
+
+3. Build the project:
+
+    Use Visual Studio to build the project. You can press `Ctrl + Shift + B` or select the "Build" option from the menu.
+
 ## License
 
 This project is licensed under the MIT License- see the [LICENSE.md](https://github.com/OmerKhan24/Currency-Calculator/blob/main/LICENSE.md) file for details.
