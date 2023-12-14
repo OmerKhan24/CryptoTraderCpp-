@@ -28,13 +28,13 @@ Please note: While the account details are securely saved in a file, transaction
 
     Use Visual Studio to build the project. You can press `Ctrl + Shift + B` or select the "Build" option from the menu.
 
-## License
-
-This project is licensed under the MIT License- see the [LICENSE.md](https://github.com/OmerKhan24/Currency-Calculator/blob/main/LICENSE.md) file for details.
-
 Get started with CryptoTraderCpp now and embark on your journey into the exciting world of cryptocurrency trading. <br>
 Feel free to contribute, report issues, or suggest improvements! <br>
 Happy trading! 🌐✨
+
+## License
+
+This project is licensed under the MIT License- see the [LICENSE.md](https://github.com/OmerKhan24/CryptoTraderCpp-/blob/main/LICENSE) file for details.
 
   ---
   
