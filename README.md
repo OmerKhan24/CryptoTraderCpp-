@@ -32,6 +32,12 @@ Get started with CryptoTraderCpp now and embark on your journey into the excitin
 Feel free to contribute, report issues, or suggest improvements! <br>
 Happy trading! 🌐✨
 
+## ScreenShots
+![image](https://github.com/OmerKhan24/CryptoTraderCpp-/assets/140423734/eeb07000-24c0-44e6-9094-c7f391b12abe)
+![image](https://github.com/OmerKhan24/CryptoTraderCpp-/assets/140423734/a254a4ea-f8a0-4e7f-ba2e-8beab0a3c309)
+
+
+
 ## License
 
 This project is licensed under the MIT License- see the [LICENSE.md](https://github.com/OmerKhan24/CryptoTraderCpp-/blob/main/LICENSE) file for details.
